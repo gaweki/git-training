@@ -9,6 +9,11 @@ const body = {
             }
         }
     },
-    mouth: {},
+    mouth: {
+        total: 1,
+        lips: {
+            total: 2
+        }
+    },
     foots: {}
 }
