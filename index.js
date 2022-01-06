@@ -1,6 +1,6 @@
 const body = {
     head: {},
     hands: {},
-    // mouth: {},
+    mouth: {},
     // foots: {}
 }
