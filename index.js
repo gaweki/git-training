@@ -3,7 +3,10 @@ const body = {
     hands: {
         total: 2,
         fingers: {
-            total: 10
+            total: 10,
+            thumbs: {
+                total: 2
+            }
         }
     },
     mouth: {},
