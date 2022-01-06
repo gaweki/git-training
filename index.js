@@ -18,5 +18,16 @@ const body = {
             total: 1
         }
     },
-    foots: {}
+    foots: {
+        total: 2,
+        fingers: {
+            total: 10,
+            left: {
+                total: 5
+            },
+            right: {
+                total: 5
+            }
+        }
+    }
 }
