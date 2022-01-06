@@ -13,6 +13,9 @@ const body = {
         total: 1,
         lips: {
             total: 2
+        },
+        tounge: {
+            total: 1
         }
     },
     foots: {}
